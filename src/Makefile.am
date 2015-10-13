@@ -1,0 +1,6 @@
+bin_PROGRAMS=NEST NEST_fast NEST_summarize stub_rewire merge_matrix
+NEST_SOURCES=NEST.cpp
+NEST_fast_SOURCES=NEST_fast.cpp
+NEST_summarize_SOURCES=NEST_summarize.cpp
+stub_rewire_SOURCES=stub_rewire.cpp
+merge_matrix_SOURCES=merge_matrix.cpp
